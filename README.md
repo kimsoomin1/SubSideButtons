@@ -1,2 +1,2 @@
 # SubSideButtons
-Assistive Buttons
+Assistive Buttons that can be moved to any where on the screen. 
